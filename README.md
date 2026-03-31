@@ -7,6 +7,10 @@ Aplicación interactiva desarrollada en Streamlit para visualizar cuatro demostr
 - Módulo 3: Potencial de la esfera homogénea
 - Módulo 4: Anomalía gravimétrica del cilindro vertical
 
+Para correr el programa se dispuso de una herramienta online, la cual se puede consultar en el siguiente enlace:
+
+https://geodesia-f-sica-3vam5stjis5bd9u8u4gda6.streamlit.app/
+
 ## Ejecutar localmente
 
 ```bash
